@@ -1,3 +1,0 @@
-welcome to github classes date-05
-local change
-this is remote commit
